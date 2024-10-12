@@ -1,6 +1,3 @@
-#this assignment was done by Alenna Zweiback and Charlie O'Connell
-
-
 #part 1: create customer class
 
 class Customer:
